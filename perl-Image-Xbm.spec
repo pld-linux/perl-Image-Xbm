@@ -36,7 +36,7 @@ dostarczaj±cym dodatkowych funkcji manipulacyjnych; np. new_from_image().
 
 %build
 %{__perl} Makefile.PL \
-	INSTALLDIRS=vendor 
+	INSTALLDIRS=vendor
 %{__make}
 
 %{!?_without_tests:%{__make} test}
