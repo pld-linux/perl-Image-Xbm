@@ -28,7 +28,7 @@ for the xbm file format.  It inherits from Image::Base which provides
 additional manipulation functionality, e.g. new_from_image().
 
 %description -l pl
-Image::Xbm dostarcza prostej funkconalno¶ci do wczytywania, manipulacji
+Image::Xbm dostarcza prostej funkcjonalno¶ci do wczytywania, manipulacji
 i zapisywania obrazów w formacie xbm.  Dziedziczy po Image::Base,
 dostarczaj±cym dodatkowych funkcji manipulacyjnych; np. new_from_image().
 
