@@ -17,6 +17,10 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 %description
 Image::Xbm - Load, create, manipulate and save xbm image files.
 
+%description -l pl
+Modu³ Image::Xbm - pozwalaj±cy wczytywaæ, tworzyæ, modyfikowaæ oraz
+zapisywaæ pliki obrazków xbm.
+
 %prep
 %setup -q -n %{pdir}-%{pnam}-%{version}
 
