@@ -1,8 +1,8 @@
 %include	/usr/lib/rpm/macros.perl
 %define	pdir	Image
 %define	pnam	Xbm
-Summary:	Image-Xbm perl module
-Summary(pl):	Modu³ perla Image-Xbm
+Summary:	Image::Xbm perl module
+Summary(pl):	Modu³ perla Image::Xbm
 Name:		perl-Image-Xbm
 Version:	1.08
 Release:	1
