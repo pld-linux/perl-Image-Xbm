@@ -4,8 +4,8 @@
 %include	/usr/lib/rpm/macros.perl
 %define	pdir	Image
 %define	pnam	Xbm
-Summary:	Image::Xbm - Load, create, manipulate and save xbm image files
-Summary(pl):	Image::Xbm - wczytaj, twórz, modyfikuj i zapisuj obrazy w formacie xbm
+Summary:	Image::Xbm - load, create, manipulate and save xbm image files
+Summary(pl):	Image::Xbm - wczytywanie, tworzenie, modyfikacja i zapis obrazków w formacie xbm
 Name:		perl-Image-Xbm
 Version:	1.08
 Release:	4
