@@ -10,7 +10,7 @@ Summary(pl):	Image::Xbm - wczytywanie, tworzenie, modyfikacja i zapis obrazków w
 Name:		perl-Image-Xbm
 Version:	1.08
 Release:	4
-License:	GPL
+License:	LGPL
 Group:		Development/Languages/Perl
 Source0:	http://www.cpan.org/modules/by-module/%{pdir}/%{pdir}-%{pnam}-%{version}.tar.gz
 # Source0-md5:	3a6cde06d6de70ee98fb1849ba18b385
