@@ -6,7 +6,7 @@
 %define		pdir	Image
 %define		pnam	Xbm
 Summary:	Image::Xbm - load, create, manipulate and save xbm image files
-Summary(pl):	Image::Xbm - wczytywanie, tworzenie, modyfikacja i zapis obrazków w formacie xbm
+Summary(pl.UTF-8):   Image::Xbm - wczytywanie, tworzenie, modyfikacja i zapis obrazkÃ³w w formacie xbm
 Name:		perl-Image-Xbm
 Version:	1.08
 Release:	5
@@ -27,10 +27,10 @@ This class module provides basic load, manipulate and save functionality
 for the xbm file format.  It inherits from Image::Base which provides
 additional manipulation functionality, e.g. new_from_image().
 
-%description -l pl
-Image::Xbm dostarcza prostej funkcjonalno¶ci do wczytywania, manipulacji
-i zapisywania obrazów w formacie xbm.  Dziedziczy po Image::Base,
-dostarczaj±cym dodatkowych funkcji manipulacyjnych; np. new_from_image().
+%description -l pl.UTF-8
+Image::Xbm dostarcza prostej funkcjonalnoÅ›ci do wczytywania, manipulacji
+i zapisywania obrazÃ³w w formacie xbm.  Dziedziczy po Image::Base,
+dostarczajÄ…cym dodatkowych funkcji manipulacyjnych; np. new_from_image().
 
 %prep
 %setup -q -n %{pdir}-%{pnam}-%{version}
